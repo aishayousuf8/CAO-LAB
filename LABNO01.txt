@@ -1,0 +1,18 @@
+----TASK NO 01----
+IN
+STO 98
+IN
+STO 99
+LDA 98
+SUB 99
+OUT
+HLT Halt
+
+----TASK NO 02----
+LDA 90
+ADD 91
+OUT
+HLT Halt
+*90
+DAT 010
+DAT 011
